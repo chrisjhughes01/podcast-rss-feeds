@@ -128,10 +128,6 @@ https://feeds.podetize.com/rss/gffRFVTcr7
 https://theghoststoryguys.libsyn.com/rss
 https://feeds.megaphone.fm/BDS9462352629
 http://winefornormalpeople.libsyn.com/rss
-"An error occurred with this application.
-
-NO_RESPONSE_FROM_FUNCTION
-"
 http://feeds.feedburner.com/iTunesPodcastTTArts
 http://theprancingponypodcast.libsyn.com/rss
 https://feeds.megaphone.fm/slatesculturegabfest
